@@ -1,6 +1,6 @@
 # deweb
 
-This repository accompanies a post on my blog - [lifelongstudent.io](https://lifelongstudent.io/2020/12/releasing-software-is-hard), about automate GitHub releases by [Semantic Versioning - SemVer](https://semver.org) specification.
+This repository accompanies a post on my blog - [lifelongstudent.io](https://nir.galons.io/blog/2020/releasing-software-is-hard/), about automate GitHub releases by [Semantic Versioning - SemVer](https://semver.org) specification.
 
 To achieve it we're using:
   1. [commitizen](https://github.com/commitizen/cz-cli) with a [Conventional Commits](https://www.conventionalcommits.org) configuration.
